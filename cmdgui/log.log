@@ -1,0 +1,135 @@
+Wed, 07 Mar 2018 13:49:33 CMDhqGUI.py[line:25] INFO CMDClient.dll加载成功
+Wed, 07 Mar 2018 13:49:33 tkgui.py[line:204] INFO start main gui
+Wed, 07 Mar 2018 13:49:34 tkgui.py[line:144] INFO 从配置文件按读取参数成功
+Wed, 07 Mar 2018 13:49:49 tkgui.py[line:129] INFO open config.ini
+Wed, 07 Mar 2018 13:49:49 tkgui.py[line:135] INFO 保存CMD/ip1,MKCode/mk参数成功
+Wed, 07 Mar 2018 13:49:51 CMDhqGUI.py[line:197] INFO 行情地址设置成功,ip地址为b'10.253.46.91:11801'
+Wed, 07 Mar 2018 13:49:51 CMDhqGUI.py[line:207] INFO 登录的用户名称密码为b'ITSTest,123456'
+Wed, 07 Mar 2018 13:49:52 CMDhqGUI.py[line:222] INFO 登陆行情成功
+Wed, 07 Mar 2018 13:49:52 CMDhqGUI.py[line:234] WARNING 服务器的连接状态2- LOGON消息交换完毕，开始进行正式的MD数据交换状态
+Wed, 07 Mar 2018 13:49:52 CMDhqGUI.py[line:249] WARNING 后台数据接收线程状态 1 - 启动状态
+Wed, 07 Mar 2018 13:49:53 tkgui.py[line:157] INFO 开始订阅行情
+Wed, 07 Mar 2018 13:49:53 CMDhqGUI.py[line:142] INFO 订阅实时行情请求成功b'XCZE,?'
+Wed, 07 Mar 2018 13:49:53 CMDhqGUI.py[line:135] WARNING 订阅号重复-201
+Wed, 07 Mar 2018 13:49:53 CMDhqGUI.py[line:135] WARNING 订阅号重复-201
+Wed, 07 Mar 2018 13:49:53 CMDhqGUI.py[line:135] WARNING 订阅号重复-201
+Wed, 07 Mar 2018 13:49:53 CMDhqGUI.py[line:135] WARNING 订阅号重复-201
+Wed, 07 Mar 2018 13:49:53 CMDhqGUI.py[line:135] WARNING 订阅号重复-201
+Wed, 07 Mar 2018 13:49:54 tkgui.py[line:191] INFO 插入新行情,合约AP805
+Wed, 07 Mar 2018 13:49:54 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约AP805
+Wed, 07 Mar 2018 13:49:54 tkgui.py[line:191] INFO 插入新行情,合约AP807
+Wed, 07 Mar 2018 13:49:54 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约AP807
+Wed, 07 Mar 2018 13:49:54 tkgui.py[line:191] INFO 插入新行情,合约AP810
+Wed, 07 Mar 2018 13:49:54 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约AP810
+Wed, 07 Mar 2018 13:49:55 tkgui.py[line:191] INFO 插入新行情,合约AP811
+Wed, 07 Mar 2018 13:49:55 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约AP811
+Wed, 07 Mar 2018 13:49:55 tkgui.py[line:191] INFO 插入新行情,合约AP812
+Wed, 07 Mar 2018 13:49:55 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约AP812
+Wed, 07 Mar 2018 13:49:55 tkgui.py[line:191] INFO 插入新行情,合约AP901
+Wed, 07 Mar 2018 13:49:55 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约AP901
+Wed, 07 Mar 2018 13:49:55 tkgui.py[line:191] INFO 插入新行情,合约CF803
+Wed, 07 Mar 2018 13:49:55 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CF803
+Wed, 07 Mar 2018 13:49:55 tkgui.py[line:191] INFO 插入新行情,合约CF805
+Wed, 07 Mar 2018 13:49:55 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CF805
+Wed, 07 Mar 2018 13:49:55 tkgui.py[line:191] INFO 插入新行情,合约CF807
+Wed, 07 Mar 2018 13:49:55 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CF807
+Wed, 07 Mar 2018 13:49:55 tkgui.py[line:191] INFO 插入新行情,合约CF809
+Wed, 07 Mar 2018 13:49:55 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CF809
+Wed, 07 Mar 2018 13:49:56 tkgui.py[line:191] INFO 插入新行情,合约CF811
+Wed, 07 Mar 2018 13:49:56 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CF811
+Wed, 07 Mar 2018 13:49:56 tkgui.py[line:191] INFO 插入新行情,合约CF901
+Wed, 07 Mar 2018 13:49:56 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CF901
+Wed, 07 Mar 2018 13:49:56 tkgui.py[line:191] INFO 插入新行情,合约CY803
+Wed, 07 Mar 2018 13:49:56 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY803
+Wed, 07 Mar 2018 13:49:56 tkgui.py[line:191] INFO 插入新行情,合约CY804
+Wed, 07 Mar 2018 13:49:56 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY804
+Wed, 07 Mar 2018 13:49:56 tkgui.py[line:191] INFO 插入新行情,合约CY805
+Wed, 07 Mar 2018 13:49:56 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY805
+Wed, 07 Mar 2018 13:49:56 tkgui.py[line:191] INFO 插入新行情,合约CY806
+Wed, 07 Mar 2018 13:49:56 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY806
+Wed, 07 Mar 2018 13:49:56 tkgui.py[line:191] INFO 插入新行情,合约CY807
+Wed, 07 Mar 2018 13:49:56 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY807
+Wed, 07 Mar 2018 13:49:57 tkgui.py[line:191] INFO 插入新行情,合约CY808
+Wed, 07 Mar 2018 13:49:57 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY808
+Wed, 07 Mar 2018 13:49:57 tkgui.py[line:191] INFO 插入新行情,合约CY809
+Wed, 07 Mar 2018 13:49:57 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY809
+Wed, 07 Mar 2018 13:49:57 tkgui.py[line:191] INFO 插入新行情,合约CY810
+Wed, 07 Mar 2018 13:49:57 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY810
+Wed, 07 Mar 2018 13:49:57 tkgui.py[line:191] INFO 插入新行情,合约CY811
+Wed, 07 Mar 2018 13:49:57 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY811
+Wed, 07 Mar 2018 13:49:57 tkgui.py[line:191] INFO 插入新行情,合约CY812
+Wed, 07 Mar 2018 13:49:57 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY812
+Wed, 07 Mar 2018 13:49:57 tkgui.py[line:191] INFO 插入新行情,合约CY901
+Wed, 07 Mar 2018 13:49:57 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY901
+Wed, 07 Mar 2018 13:49:58 tkgui.py[line:191] INFO 插入新行情,合约CY902
+Wed, 07 Mar 2018 13:49:58 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约CY902
+Wed, 07 Mar 2018 13:49:58 tkgui.py[line:191] INFO 插入新行情,合约FG803
+Wed, 07 Mar 2018 13:49:58 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG803
+Wed, 07 Mar 2018 13:49:58 tkgui.py[line:191] INFO 插入新行情,合约FG804
+Wed, 07 Mar 2018 13:49:58 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG804
+Wed, 07 Mar 2018 13:49:58 tkgui.py[line:191] INFO 插入新行情,合约FG805
+Wed, 07 Mar 2018 13:49:58 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG805
+Wed, 07 Mar 2018 13:49:59 tkgui.py[line:191] INFO 插入新行情,合约FG806
+Wed, 07 Mar 2018 13:49:59 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG806
+Wed, 07 Mar 2018 13:49:59 tkgui.py[line:191] INFO 插入新行情,合约FG807
+Wed, 07 Mar 2018 13:49:59 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG807
+Wed, 07 Mar 2018 13:49:59 tkgui.py[line:191] INFO 插入新行情,合约FG808
+Wed, 07 Mar 2018 13:49:59 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG808
+Wed, 07 Mar 2018 13:49:59 tkgui.py[line:191] INFO 插入新行情,合约FG809
+Wed, 07 Mar 2018 13:49:59 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG809
+Wed, 07 Mar 2018 13:49:59 tkgui.py[line:191] INFO 插入新行情,合约FG810
+Wed, 07 Mar 2018 13:49:59 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG810
+Wed, 07 Mar 2018 13:50:00 tkgui.py[line:191] INFO 插入新行情,合约FG811
+Wed, 07 Mar 2018 13:50:00 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG811
+Wed, 07 Mar 2018 13:50:00 tkgui.py[line:191] INFO 插入新行情,合约FG812
+Wed, 07 Mar 2018 13:50:00 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG812
+Wed, 07 Mar 2018 13:50:00 tkgui.py[line:191] INFO 插入新行情,合约FG901
+Wed, 07 Mar 2018 13:50:00 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG901
+Wed, 07 Mar 2018 13:50:01 tkgui.py[line:191] INFO 插入新行情,合约FG902
+Wed, 07 Mar 2018 13:50:01 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约FG902
+Wed, 07 Mar 2018 13:50:01 tkgui.py[line:191] INFO 插入新行情,合约IPS CF803&CY803
+Wed, 07 Mar 2018 13:50:01 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS CF803&CY803
+Wed, 07 Mar 2018 13:50:01 tkgui.py[line:191] INFO 插入新行情,合约IPS CF805&CY805
+Wed, 07 Mar 2018 13:50:01 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS CF805&CY805
+Wed, 07 Mar 2018 13:50:01 tkgui.py[line:191] INFO 插入新行情,合约IPS CF807&CY807
+Wed, 07 Mar 2018 13:50:01 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS CF807&CY807
+Wed, 07 Mar 2018 13:50:02 tkgui.py[line:191] INFO 插入新行情,合约IPS CF809&CY809
+Wed, 07 Mar 2018 13:50:02 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS CF809&CY809
+Wed, 07 Mar 2018 13:50:02 tkgui.py[line:191] INFO 插入新行情,合约IPS CF811&CY811
+Wed, 07 Mar 2018 13:50:02 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS CF811&CY811
+Wed, 07 Mar 2018 13:50:02 tkgui.py[line:191] INFO 插入新行情,合约IPS CF901&CY901
+Wed, 07 Mar 2018 13:50:02 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS CF901&CY901
+Wed, 07 Mar 2018 13:50:02 tkgui.py[line:191] INFO 插入新行情,合约IPS SF803&SM803
+Wed, 07 Mar 2018 13:50:02 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF803&SM803
+Wed, 07 Mar 2018 13:50:03 tkgui.py[line:191] INFO 插入新行情,合约IPS SF804&SM804
+Wed, 07 Mar 2018 13:50:03 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF804&SM804
+Wed, 07 Mar 2018 13:50:03 tkgui.py[line:191] INFO 插入新行情,合约IPS SF805&SM805
+Wed, 07 Mar 2018 13:50:03 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF805&SM805
+Wed, 07 Mar 2018 13:50:03 tkgui.py[line:191] INFO 插入新行情,合约IPS SF806&SM806
+Wed, 07 Mar 2018 13:50:03 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF806&SM806
+Wed, 07 Mar 2018 13:50:03 tkgui.py[line:191] INFO 插入新行情,合约IPS SF807&SM807
+Wed, 07 Mar 2018 13:50:03 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF807&SM807
+Wed, 07 Mar 2018 13:50:03 tkgui.py[line:191] INFO 插入新行情,合约IPS SF808&SM808
+Wed, 07 Mar 2018 13:50:03 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF808&SM808
+Wed, 07 Mar 2018 13:50:04 tkgui.py[line:191] INFO 插入新行情,合约IPS SF809&SM809
+Wed, 07 Mar 2018 13:50:04 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF809&SM809
+Wed, 07 Mar 2018 13:50:04 tkgui.py[line:191] INFO 插入新行情,合约IPS SF810&SM810
+Wed, 07 Mar 2018 13:50:04 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF810&SM810
+Wed, 07 Mar 2018 13:50:04 tkgui.py[line:191] INFO 插入新行情,合约IPS SF811&SM811
+Wed, 07 Mar 2018 13:50:04 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF811&SM811
+Wed, 07 Mar 2018 13:50:04 tkgui.py[line:191] INFO 插入新行情,合约IPS SF812&SM812
+Wed, 07 Mar 2018 13:50:04 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF812&SM812
+Wed, 07 Mar 2018 13:50:05 tkgui.py[line:191] INFO 插入新行情,合约IPS SF901&SM901
+Wed, 07 Mar 2018 13:50:05 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF901&SM901
+Wed, 07 Mar 2018 13:50:05 tkgui.py[line:191] INFO 插入新行情,合约IPS SF902&SM902
+Wed, 07 Mar 2018 13:50:05 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约IPS SF902&SM902
+Wed, 07 Mar 2018 13:50:05 tkgui.py[line:191] INFO 插入新行情,合约JR803
+Wed, 07 Mar 2018 13:50:05 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约JR803
+Wed, 07 Mar 2018 13:50:05 tkgui.py[line:191] INFO 插入新行情,合约JR805
+Wed, 07 Mar 2018 13:50:05 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约JR805
+Wed, 07 Mar 2018 13:50:06 tkgui.py[line:191] INFO 插入新行情,合约JR807
+Wed, 07 Mar 2018 13:50:06 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约JR807
+Wed, 07 Mar 2018 13:50:06 tkgui.py[line:191] INFO 插入新行情,合约JR809
+Wed, 07 Mar 2018 13:50:06 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约JR809
+Wed, 07 Mar 2018 13:50:06 tkgui.py[line:191] INFO 插入新行情,合约JR811
+Wed, 07 Mar 2018 13:50:06 CMDhqGUI.py[line:96] INFO 行情变动推送成功，合约JR811
